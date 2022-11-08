@@ -42,3 +42,9 @@ Tutorial : https://www.youtube.com/watch?v=Ljj1wGFJqPY
 ![online-reputation-management](assets/images/online-reputation-management.jpg)
 ![search-engine-optimization](assets/images/search-engine-optimization.jpg)
 ![social-media-marketing](assets/images/social-media-marketing.jpg)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
