@@ -32,6 +32,10 @@ When you visit the website, you can click the links on the Menu "Search Engine O
 
 Tutorial : https://www.youtube.com/watch?v=Ljj1wGFJqPY
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 ## Screenshots
@@ -44,7 +48,5 @@ Tutorial : https://www.youtube.com/watch?v=Ljj1wGFJqPY
 ![social-media-marketing](assets/images/social-media-marketing.jpg)
 
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
